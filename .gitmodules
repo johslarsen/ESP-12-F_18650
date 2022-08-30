@@ -1,0 +1,6 @@
+[submodule "lib/KiCadBased.pretty"]
+	path = lib/KiCadBased.pretty
+	url = ../KiCadBased.pretty
+[submodule "lib/2.54mm_Pin_Headers.pretty"]
+	path = lib/2.54mm_Pin_Headers.pretty
+	url = ../2.54mm_Pin_Headers.pretty
